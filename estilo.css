@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color: #E4FAF8;font-family: arial;text-align: center;}
+h1{color:#002929;font-size: 80px;}
+h2{color: #007251;font-size: 40px;}
+h3{font-size: 30px;}
+h4{font-size: 20px;}
+.contenedorcentral{background: #FFFFFF; display: flex;flex-direction: column; width: 80%;margin-left: 40px; border: #06507E 5px solid;padding: 5%;justify-content:space-between;align-content: center;border-radius: 7px;margin-top: 20px;}
+a.boton {height: 40px;padding: 10px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: #000000;
+	background: #00D532;
+}
+.cajaspi1{background: #2A52BF;padding: 5px;margin-top: 20px;}
+.imagenes{width: 50px; height: 80px;}
+.contenedorgallery{background: #FFFFFF; display: flex;flex-direction: row; width: 80%;margin-left: 40px; border: #06507E 5px solid;padding: 5%;justify-content:space-between;align-content: center;border-radius: 7px;}
